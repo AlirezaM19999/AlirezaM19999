@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/cyberpunk-banner.svg" alt="ALIREZA.exe — Programmer, Web Developer, DevOps Explorer" width="100%" />
-
-<br/>
-
 <a href="https://github.com/AlirezaM19999">
   <img src="https://img.shields.io/badge/GITHUB-ALIREZAM19999-0b1220?style=for-the-badge&logo=github&logoColor=34e7a2" alt="GitHub" />
 </a>
