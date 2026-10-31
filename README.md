@@ -11,7 +11,7 @@
 </a>
 
 <p>
-  <strong>Programmer · Web Developer · DevOps Explorer</strong><br/>
+  <strong>Programmer · Developer · DevOps </strong><br/>
   <em>Building useful things. Automating the boring parts. Learning by shipping.</em>
 </p>
 
